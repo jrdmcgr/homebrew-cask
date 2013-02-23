@@ -22,7 +22,7 @@ First ensure you have Homebrew version '0.9' or higher:
 Tap this repository and install the `brew-cask` tool:
 
     $ brew tap phinze/homebrew-cask
-    $ brew install brew-cask
+    $ brew install --HEAD brew-cask
 
 ## Now let's install our first Cask
 
